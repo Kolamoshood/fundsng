@@ -82,7 +82,7 @@
                                     Home
                                 </a>
                             </li>
-                            <li><a href="{{ url('/goods') }}" class="nav-link">Services</a></li>
+                            <li><a href="/trial" class="nav-link">Services</a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                             </li>
@@ -131,11 +131,11 @@
                                 Home
                             </a>
                         </li>
-                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="/trial" class="nav-link">Services</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                         </li>
-                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="/trial" class="nav-link">Services</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                         </li>

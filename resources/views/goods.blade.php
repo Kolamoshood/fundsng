@@ -49,6 +49,16 @@
                                             </div>
                                         </div>
                                     </a>
+                                    
+                                    <h1>{{$Heading}}</h1>
+                                    @foreach($Trials as $Trial)
+
+                                        
+                                        <h3>{{$Trial['name']}}</h3>
+                                        <p>{{$Trial['description']}}</p>
+
+                                    @endforeach
+
 
                                 </div>
                             </div>

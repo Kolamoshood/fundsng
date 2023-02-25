@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Models\Good;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,6 +25,17 @@ Route::get('/goods', function () {
 Route::get('/pricing', function () {
     return view('pricing');
 });
-Auth::routes();
 
+Route::get('/trials', function () {
+    return view('trials', [
+        'Heading' => 'Trials do not kill',
+        'Trials' => Good::all()
+    ]);
+});
+Route::get('/trial/{id}', function ($id) {
+    return view('trial', [
+        'Heading' => 'A Trial does not kill',
+        'Trial'=> Good::find($id)
+    ]);
+});
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

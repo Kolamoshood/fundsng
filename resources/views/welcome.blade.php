@@ -90,7 +90,7 @@
                                     Home
                                 </a>
                             </li>
-                            <li><a href="services.html" class="nav-link">Services</a></li>
+                            <li><a href="/trials" class="nav-link">Services</a></li>
                             <li><a href="/pricing" class="nav-link">Pricing</a></li>
                         </ul>
                     </div>
@@ -238,7 +238,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="/trials" class="nav-link">Services</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                             <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
@@ -392,7 +392,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="/trials" class="nav-link">Services</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
                             <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white">
@@ -498,7 +498,7 @@
                                          ></span>
                                             <div class="drop-title">Contact Us</div>
                                         </a>
-                                        <a href="services.html" class="dropdown-link">
+                                        <a href="/trials" class="dropdown-link">
                                             <span class="me-2"
                                          ><i class="far fa-code-branch"></i
                                          ></span>
@@ -1595,7 +1595,7 @@
                                         <ul class="list-unstyled footer-nav-list mb-lg-0">
                                             <li><a href="index.html" class="text-decoration-none">Home</a></li>
                                             <li><a href="about-us.html" class="text-decoration-none">About Us</a></li>
-                                            <li><a href="services.html" class="text-decoration-none">Services</a></li>
+                                            <li><a href="/trials" class="text-decoration-none">Services</a></li>
                                             <li><a href="career.html" class="text-decoration-none">Career</a></li>
                                             <li><a href="integrations.html" class="text-decoration-none">Integrations</a>
                                             </li>
