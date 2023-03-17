@@ -20,7 +20,7 @@ class GoodFactory extends Factory
             'email' => $this->faker->companyEmail(),
             'location' => $this->faker->city(),
             'website' => $this->faker->url(),
-            'description' => $this->faker->paragraph(30)
+            'description' => $this->faker->paragraph(5)
         ];
     }
 }

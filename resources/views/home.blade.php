@@ -41,7 +41,7 @@
                             <div class="dot-shape-bg position-absolute z--1 left--40 bottom--40">
                                 <img src="assets/img/shape/dot-big-square.svg" alt="shape">
                             </div>
-                            <!--pattern end-->
+                            <!--palottern end-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
